@@ -1,0 +1,16 @@
+Mauro Icardi,Galatasaray
+Emre Mor,Fenerbahçe
+Juan Mata,Galatasaray
+Dele Alli,Beşiktaş
+Arda Güler,Fenerbahçe
+Dries Mertens,Galatasaray
+Jackson Muleka,Beşiktaş
+Fernando Muslera,Galatasaray
+Michy Batshuayi,Fenerbahçe
+Tayyib Talha Sanuç,Beşiktaş
+Yusuf Demir,Galatasaray
+Gustavo Henrique,Fenerbahçe
+Cenk Tosun,Beşiktaş
+Serdar Dursun,Fenerbahçe
+Rachid Ghezzal,Beşiktaş
+Bafetimbi Gomis,Galatasaray
